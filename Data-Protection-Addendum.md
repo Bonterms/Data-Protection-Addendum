@@ -178,3 +178,8 @@ This Data Protection Addendum (“**DPA**”) is an Attachment to the Agreement.
 (b) If Provider engages in a Restricted Transfer, it will comply with Schedule 3 (Cross-Border Transfer Mechanisms).
 
 10.2.  Region-Specific Terms. To the extent that Provider Processes Customer Personal Data protected by Data Protection Laws in one of the regions listed in Schedule 4 (Region-Specific Terms), then the terms specified therein with respect to the applicable jurisdiction(s) will apply in addition to the terms of this DPA.
+
+Bonterms Data Protection Addendum (DPA) (Version 1.0)<br/>
+© 2022 Bonterms, Inc. Free to use under CC BY 4.0.<br/>
+Learn more: [Bonterms](https://bonterms.com/)<br/>
+**Bonterms does not provide legal advice, does not guarantee the enforceability or effect of these terms and has no liability relating to use of these terms.**
